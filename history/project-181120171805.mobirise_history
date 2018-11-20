@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vultrix",
-    "currentPage": "index.html",
+    "currentPage": "Aboutsite.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -45,9 +45,7 @@
     ],
     "uniqCompNum": 82,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/skyla/GitHub/Vultrix-Official.github.io"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
